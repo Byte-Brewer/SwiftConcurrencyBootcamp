@@ -17,6 +17,7 @@
 		784803CB29A27B5B007355F4 /* TaskBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 784803CA29A27B5B007355F4 /* TaskBootcamp.swift */; };
 		784AE93929A3C2590071FD57 /* AsyncLetBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 784AE93829A3C2590071FD57 /* AsyncLetBootcamp.swift */; };
 		784AE93B29A401BF0071FD57 /* TaskGroupBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 784AE93A29A401BF0071FD57 /* TaskGroupBootcamp.swift */; };
+		784AE93D29A4287C0071FD57 /* ChechedContinuationBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 784AE93C29A4287C0071FD57 /* ChechedContinuationBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -31,6 +32,7 @@
 		784803CA29A27B5B007355F4 /* TaskBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskBootcamp.swift; sourceTree = "<group>"; };
 		784AE93829A3C2590071FD57 /* AsyncLetBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AsyncLetBootcamp.swift; sourceTree = "<group>"; };
 		784AE93A29A401BF0071FD57 /* TaskGroupBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskGroupBootcamp.swift; sourceTree = "<group>"; };
+		784AE93C29A4287C0071FD57 /* ChechedContinuationBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChechedContinuationBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -71,6 +73,7 @@
 				784803CA29A27B5B007355F4 /* TaskBootcamp.swift */,
 				784AE93829A3C2590071FD57 /* AsyncLetBootcamp.swift */,
 				784AE93A29A401BF0071FD57 /* TaskGroupBootcamp.swift */,
+				784AE93C29A4287C0071FD57 /* ChechedContinuationBootcamp.swift */,
 				784803BA299FE7DB007355F4 /* Assets.xcassets */,
 				784803BC299FE7DB007355F4 /* Preview Content */,
 			);
@@ -159,6 +162,7 @@
 				784803C5299FE85D007355F4 /* DoCatchTryThrowsBootcamp.swift in Sources */,
 				784803B9299FE7DA007355F4 /* ContentView.swift in Sources */,
 				784803CB29A27B5B007355F4 /* TaskBootcamp.swift in Sources */,
+				784AE93D29A4287C0071FD57 /* ChechedContinuationBootcamp.swift in Sources */,
 				784803C929A005CD007355F4 /* AsyncAwaitBootcamp.swift in Sources */,
 				784803B7299FE7DA007355F4 /* SwiftConcurrencyBootcampApp.swift in Sources */,
 				784AE93929A3C2590071FD57 /* AsyncLetBootcamp.swift in Sources */,

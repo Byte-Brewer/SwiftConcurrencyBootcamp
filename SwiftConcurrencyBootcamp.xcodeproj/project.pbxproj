@@ -21,6 +21,7 @@
 		784EE98529A49FFD005F1B9B /* StructClassActorBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 784EE98429A49FFD005F1B9B /* StructClassActorBootcamp.swift */; };
 		78B0264D29A532D2000FA103 /* ActorsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78B0264C29A532D2000FA103 /* ActorsBootcamp.swift */; };
 		78B0264F29A57E81000FA103 /* GlobalActorBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78B0264E29A57E81000FA103 /* GlobalActorBootcamp.swift */; };
+		78B0265129A7BC84000FA103 /* SendableBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78B0265029A7BC84000FA103 /* SendableBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -39,6 +40,7 @@
 		784EE98429A49FFD005F1B9B /* StructClassActorBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StructClassActorBootcamp.swift; sourceTree = "<group>"; };
 		78B0264C29A532D2000FA103 /* ActorsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActorsBootcamp.swift; sourceTree = "<group>"; };
 		78B0264E29A57E81000FA103 /* GlobalActorBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GlobalActorBootcamp.swift; sourceTree = "<group>"; };
+		78B0265029A7BC84000FA103 /* SendableBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SendableBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +85,7 @@
 				784EE98429A49FFD005F1B9B /* StructClassActorBootcamp.swift */,
 				78B0264C29A532D2000FA103 /* ActorsBootcamp.swift */,
 				78B0264E29A57E81000FA103 /* GlobalActorBootcamp.swift */,
+				78B0265029A7BC84000FA103 /* SendableBootcamp.swift */,
 				784803BA299FE7DB007355F4 /* Assets.xcassets */,
 				784803BC299FE7DB007355F4 /* Preview Content */,
 			);
@@ -170,6 +173,7 @@
 				784803C7299FF902007355F4 /* DownloadImageAsync.swift in Sources */,
 				784803C5299FE85D007355F4 /* DoCatchTryThrowsBootcamp.swift in Sources */,
 				784803B9299FE7DA007355F4 /* ContentView.swift in Sources */,
+				78B0265129A7BC84000FA103 /* SendableBootcamp.swift in Sources */,
 				78B0264D29A532D2000FA103 /* ActorsBootcamp.swift in Sources */,
 				784803CB29A27B5B007355F4 /* TaskBootcamp.swift in Sources */,
 				784EE98529A49FFD005F1B9B /* StructClassActorBootcamp.swift in Sources */,
